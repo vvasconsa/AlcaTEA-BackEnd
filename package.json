@@ -1,0 +1,23 @@
+{
+  "name": "alcatea-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vvasconsa/AlcaTEA-BackEnd.git"
+  },
+  "keywords": [],
+  "author": "Marcus Vasconcelos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vvasconsa/AlcaTEA-BackEnd/issues"
+  },
+  "homepage": "https://github.com/vvasconsa/AlcaTEA-BackEnd#readme",
+  "dependencies": {
+    "json-server": "^0.17.1"
+  }
+}
